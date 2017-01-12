@@ -196,10 +196,7 @@ $top="
 <html>
 <head>";
 ?>
-<link rel="stylesheet" type="text/css" href="view.css" media="all">
 <link rel="stylesheet" type="text/css" href="pikaday.css" media="all">
-<script type="text/javascript" src="view.js"></script>
-<script type="text/javascript" src="calendar.js"></script>
 <?php
 $top.="
 <style>
@@ -214,6 +211,14 @@ div.form {
 }
 span.preferred {
 	background-color: #fff5ce;
+}
+body
+{
+        background:#77aadd;
+        font-family:\"Lucida Grande\", Tahoma, Arial, Verdana, sans-serif;
+        font-size:small;
+        margin:8px 20px 16px;
+        text-align:left;
 }
 </style>
 </head>
