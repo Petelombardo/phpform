@@ -17,6 +17,7 @@ $q->text="Office Location";
 $q->choiceType="select";
 $q->defaultChoices=array("City1");
 $q->choices=array("City1","City2","City3");
+$q->preferred=array("City1","City3");
 $q->align="left";
 array_push($questions,$q);
 </pre>
