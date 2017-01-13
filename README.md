@@ -23,7 +23,7 @@ array_push($questions,$q);
 </pre>
 <br>
 <b>Screenshot</b>
-<img src=example-form.png><br>
+![alt text](https://github.com/Petelombardo/phpform/raw/master/example-form.png "Example Form")
 <b>Question Attributes Explained</b>
 <pre>
 text            - The actual question/statement/heading; This attribute generates the variable as well
