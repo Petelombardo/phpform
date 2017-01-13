@@ -22,6 +22,8 @@ $q->align="left";
 array_push($questions,$q);
 </pre>
 <br>
+<b>Screenshot</b>
+<img src=example-form.png><br>
 <b>Question Attributes Explained</b>
 <pre>
 text            - The actual question/statement/heading; This attribute generates the variable as well
